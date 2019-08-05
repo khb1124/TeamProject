@@ -7,6 +7,6 @@
 <title></title> 
 </head>
 <body>
-<H1>Github Vercion1.0 / KIM </H1>
+<H1>Github Version1.0 / KIM </H1>
 </body>
 </html>
